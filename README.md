@@ -1,2 +1,3 @@
-<img width="1343" height="900" alt="image" src="https://github.com/user-attachments/assets/27c0193b-1333-41dc-be36-ff127d41b8d1" />
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d7c0b5b8-b225-4772-acc7-935a7cfccc6a/thumbnail" >
+</p>
