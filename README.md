@@ -1,4 +1,4 @@
-Just a guy doing stuff. Will be posting some docker compose files on some ML stuff.
+Just doing stuff
 
 
 
