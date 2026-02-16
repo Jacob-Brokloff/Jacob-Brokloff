@@ -2,7 +2,7 @@
 
 # Jacob Brokloff
 
-**Brand Technical Specialist — Data & AI @ IBM**  
+**Customer Success Engineer @ IBM**  
 *Solutions Engineering · Enterprise Storage · AI Infrastructure*
 
 [![IBM](https://img.shields.io/badge/IBM-Data_%26_AI-0530AD?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com)
