@@ -17,7 +17,7 @@
 
 ## About
 
-I spend my days driving technical strategy around IBM's storage and AI portfolio — working across Fusion, Storage Scale, and Object Storage architectures to enable enterprise AI workloads.
+I spend my days driving technical strategy around IBM's storage and AI portfolio. Working across Fusion, Storage Scale, and Object Storage architectures to enable enterprise AI workloads.
 
 Nights and weekends: running a homelab and building Go TUIs.
 
