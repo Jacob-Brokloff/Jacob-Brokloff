@@ -31,7 +31,7 @@ Nights and weekends: running a homelab and building Go TUIs.
 Built with **Go + Bubble Tea + Lip Gloss**. Catppuccin/Tokyo Night aesthetic. Targets SMB operators who live in the terminal.
 
 ### Homelab Observability Platform *(in progress)*
-> Network and infrastructure monitoring TUI — a Zabbix/Grafana alternative without the overhead.
+> Network and infrastructure monitoring TUI. Zabbix/Grafana alternative without the overhead.
 
 Implements automatic bottleneck identification using the **USE Method**, Linear Programming, and queueing theory.
 
